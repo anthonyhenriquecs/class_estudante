@@ -1,6 +1,7 @@
 # class_estudante
 
 
+
 class Estudante:
     escola = "DIO"
 
